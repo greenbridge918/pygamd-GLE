@@ -8,7 +8,7 @@ We also provide interested readers with the CG model from article, as well as sc
 
 ## Change Statement
 This project is a modified version of open-source pygamd-v1 packages. Any questions about installation, citation and documentation can refered to [https://github.com/youliangzhu/pygamd-v1](https://github.com/youliangzhu/pygamd-v1).
-It should be noted that you need to install SciPy packages if you want to use numerical potentials (table potentials) in our MD simulations.
+It should be noted that you need to install SciPy packages if you want to use numerical potentials (table potentials) in MD simulations.
 
 The following were modified or added:
 
