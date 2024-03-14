@@ -2,7 +2,7 @@
 A python packages that can be used for classical generalized Langevin equation (GLE) simulations.
 More specific, the GLE integrator adopts the form of numerical integration rather than extend Markovian method to handle 
 position-undependent homogeneous memory kernel. We develop a method to effectively split a long-lived memory kernel to two parts, a delta function 
-and short-time memory kernel, to deal with the system with very slow relaxation, e.g., linear polymer. More details can be found in XX.
+and short-time memory kernel, to deal with the system with very slow relaxation, e.g., linear polymer. More details can be found in [https://doi.org/10.1021/jacsau.3c00756](https://doi.org/10.1021/jacsau.3c00756).
 
 We also provide interested readers with the CG model from article, as well as scripts about the iterative procedure.
 
